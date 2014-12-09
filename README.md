@@ -1,0 +1,4 @@
+scratch
+=======
+
+C++ musings
