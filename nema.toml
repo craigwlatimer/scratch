@@ -1,3 +1,4 @@
 project = "https://app.nemasystems.io/bedrock/default/dirt"
 type = "LIBRARY"
-global_id = 16 # the ID of the library you created in Nema
+global_id = 16
+commit = "23cra5p81js55ehr4ajroxkpc1zfvix"
